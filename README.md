@@ -10,7 +10,7 @@
 
 ### 🔭 About Me
 - 🌱 Exploring forest growth models, remote sensing & LiDAR
-- 📫 How to reach me: <a href="mailto:ergin@ualberta.ca">ergin@example.com</a>
+- 📫 How to reach me: <a href="mailto:ergin@ualberta.ca">ergin@ualberta.ca</a>
 - 💬 Ask me about **R**, **Shiny**, **GIS**
 
 ---
