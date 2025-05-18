@@ -85,10 +85,10 @@ Remote sensing & LiDAR | PhD Candidate @ University of Alberta
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"        alt="R" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"      alt="Git" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qgis/qgis-original.svg"    alt="QGIS" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qgis/qgis-original.svg" alt="QGIS" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"  alt="Docker" />
   <!-- ArcGIS Pro logo (hosted by Esri) -->
-  <img height="30" src="https://raw.githubusercontent.com/Esri/arcgis-pro-sdk-resources/master/images/ArcGIS-Pro-Logo.svg" alt="ArcGIS Pro" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arcgis-pro/arcgis-pro-original.svg" alt="ArcGIS Pro" />
   <!-- MATLAB logo -->
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"  alt="MATLAB" />
 </p>
