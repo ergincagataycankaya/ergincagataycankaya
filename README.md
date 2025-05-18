@@ -20,7 +20,7 @@ Remote sensing & LiDAR | PhD Candidate @ University of Alberta
 ## 🎯 Research Interests
 
 - 🌲 **Forest Growth Models** (Tree allometry & Modeling)  
-- 🚁 **LiDAR & Photogrammetry** (Nobile-Handheld, UAV, Terrestrial)  
+- 🚁 **LiDAR & Photogrammetry** (Mobile-Handheld, UAV, Terrestrial Laser Scanners & Hyperspectral Cameras)  
 - 🛰️ **Remote Sensing & GIS** (Time-Series, Tree Species Classification)  
 - 🤖 **ML for Forestry** (Machine learning, forest inventory)
 
