@@ -46,7 +46,7 @@ Forest growth modelling, remote sensing & LiDAR | PhD Candidate @ University of 
 6. **Çankaya, E. Ç.** (2015). *Evaluating Forest Based Land Use Change Trends Using a Cellular Automata–Markov Model: A Case Study of Turkey*. In *Proceedings of the 38th Annual Council on Forest Engineering (COFE) Meeting*, Lexington, KY (July 19 2015).  
 7. **Çankaya, E. Ç.** (2015). *The Availability of Fire Risk Maps: A Case Study of Nurdagi Forest Planning Unit*. IV. Forest Construction-Transportation and Technology Workshop & Symposium on Precision Forestry in Forest Operations, Kastamonu, Turkey (June 4–6 2015).  
 8. **Çankaya, E. Ç.** (2015). *The Evaluation of the Forest Management Planning Process in Turkey in Terms of Precision Forestry*. IV. Forest Construction-Transportation and Technology Workshop & Symposium on Precision Forestry in Forest Operations, Kastamonu, Turkey (June 4–6 2015).  
-9. **Çankaya, E. Ç.** (201X). *Single- and Double-Entry Volume Equations for Turkey Oak (Quercus cerris L.) Stands in Bursa Regional Directorate of Forestry*. **FORESTIST**.  
+9. **Sönmez, T., Gencal, B., & Çankaya, E. Ç. (2022). Single-and double-entry volume equations for Turkey oak (Quercus cerris L.) stands in Bursa regional directorate of forestry*. forestry, 10.**.  
 
 ---
 
