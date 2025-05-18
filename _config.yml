@@ -1,0 +1,22 @@
+# _config.yml
+
+# Site settings
+title: “Ergin Çağatay Çankaya”
+description: “Forest growth modelling, remote sensing & LiDAR | PhD Candidate @ UAlberta”
+url: "https://ergincagataycankaya.github.io"  # your URL
+
+# Pick one of GitHub’s supported themes:
+#   https://pages.github.com/themes/
+theme: jekyll-theme-cayman
+
+# (optional) enable plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# (optional) where your content lives
+# If you keep your markdown in the root, leave this commented:
+# collections_dir: ""
+
+# Build settings
+markdown: kramdown
