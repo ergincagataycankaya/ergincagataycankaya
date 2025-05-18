@@ -1,22 +1,9 @@
 # _config.yml
-
-# Site settings
-title: “Ergin Çağatay Çankaya”
-description: “Forest growth modelling, remote sensing & LiDAR | PhD Candidate @ UAlberta”
-url: "https://ergincagataycankaya.github.io"  # your URL
-
-# Pick one of GitHub’s supported themes:
-#   https://pages.github.com/themes/
-theme: jekyll-theme-cayman
-
-# (optional) enable plugins
+title: Ergin C. Cankaya
+description: "Ph.D. Candidate, Remote Sensing & LiDAR in Forest Growth Models"
+url: "https://ergincagataycankaya.github.io"
+baseurl: "/ergincagataycankaya"  # your repo name
+theme: academicpages  # or you can pick: minima, jekyll-theme-cayman, etc.
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# (optional) where your content lives
-# If you keep your markdown in the root, leave this commented:
-# collections_dir: ""
-
-# Build settings
-markdown: kramdown
