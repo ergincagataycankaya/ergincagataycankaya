@@ -5,10 +5,10 @@
 
 <div align="center">
 
-# 👋 Hi, I’m Ergin Çağatay Çankaya
+# 👋 Hi, I’m Ergin C. Cankaya
 
 [![University of Alberta][ualberta-badge]][ualberta]  
-Forest growth modelling, remote sensing & LiDAR | PhD Candidate @ University of Alberta
+Remote sensing & LiDAR | PhD Candidate @ University of Alberta
 
 [![Profile Views][views-shield]][your-profile]  
 [![ORCID][orcid-shield]][orcid] [![Google Scholar][gscholar-shield]][gscholar] [![LinkedIn][linkedin-shield]][linkedin]
