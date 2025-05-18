@@ -31,8 +31,8 @@ Forest growth modelling, remote sensing & LiDAR | PhD Candidate @ University of 
 | Year | Activity                                           |
 |:----:|:---------------------------------------------------|
 | 2023 | 🏅 Awarded Best Poster Presentation at the 93rd Forest Industry Lecture Series (FILS) |
-| 2024 | 📄 Published “A LiDAR‐Based Growth Model for…” [\[1\]](#publications) |
-| 2025 | 🗣 Oral Presentatiton: **ISCL: A New Algorithm for Individual Tree Detection from Lidar Point Clouds**, Québec City, Québec |
+| 2021 | 📄 **Using handheld mobile LiDAR technology in forest inventories: A case study from Artvin-Şavşat**, *Forestry Research Journal*, Dec 11 2021. [🔗 Read on DergiPark](https://dergipark.org.tr/tr/pub/ogmoad/article/1016879) |
+| 2025 | 🗣 Oral Presentation: **ISCL: A New Algorithm for Individual Tree Detection from Lidar Point Clouds**, Québec City, Québec |
 
 ---
 
@@ -40,7 +40,13 @@ Forest growth modelling, remote sensing & LiDAR | PhD Candidate @ University of 
 
 1. **Çankaya, E. Ç.**, & Smith, J. (2024). *A LiDAR‐Based Growth Model for Boreal Forests*. **Remote Sensing of Environment**, 289, 112345.  
 2. **Çankaya, E. Ç.**, & Lee, A. (2023). *Unmanned Aerial Systems in Forest Inventory*. **Canadian Journal of Remote Sensing**, 49(2), 234–249.  
-3. …
+3. **Çankaya, E. Ç.** (2021). *Using handheld mobile LiDAR technology in forest inventories: A case study from Artvin-Şavşat*. **Forestry Research Journal**, Dec 11 2021.  
+4. Copenheaver, C. A., Pulice, M. J., Lawrence, N. J. W., Raso, C. H., **Çankaya, E. Ç.**, Wan, H., & Poling, B. T. (2017). *Dendroarchaeology reveals influence of early‐European settlement on forest disturbance regimes in the Appalachian Mountains, USA*. Presented July 18 2017.  
+5. **Çankaya, E. Ç.** (2015). *Forest Road Network Effect on Forest Fire: A Case Study of Turkey*. In *Proceedings of the 38th Annual Council on Forest Engineering (COFE) Meeting*: Engineering Solutions for Non-Industrial Private Forest Operations, Lexington, KY (July 19 2015).  
+6. **Çankaya, E. Ç.** (2015). *Evaluating Forest Based Land Use Change Trends Using a Cellular Automata–Markov Model: A Case Study of Turkey*. In *Proceedings of the 38th Annual Council on Forest Engineering (COFE) Meeting*, Lexington, KY (July 19 2015).  
+7. **Çankaya, E. Ç.** (2015). *The Availability of Fire Risk Maps: A Case Study of Nurdagi Forest Planning Unit*. IV. Forest Construction-Transportation and Technology Workshop & Symposium on Precision Forestry in Forest Operations, Kastamonu, Turkey (June 4–6 2015).  
+8. **Çankaya, E. Ç.** (2015). *The Evaluation of the Forest Management Planning Process in Turkey in Terms of Precision Forestry*. IV. Forest Construction-Transportation and Technology Workshop & Symposium on Precision Forestry in Forest Operations, Kastamonu, Turkey (June 4–6 2015).  
+9. **Çankaya, E. Ç.** (201X). *Single- and Double-Entry Volume Equations for Turkey Oak (Quercus cerris L.) Stands in Bursa Regional Directorate of Forestry*. **FORESTIST**.  
 
 ---
 
