@@ -126,7 +126,7 @@ _“Nearly all my work is open source—feel free to explore my repos above!_
 [your-profile]: https://github.com/ergincagataycankaya  
 [orcid]: https://orcid.org/0000-0003-2553-8707  
 [orcid-shield]: https://img.shields.io/badge/ORCID-0000--0003--2553--8707-1EBBEE?logo=orcid  
-[gscholar]: https://scholar.google.com/citations?user=YOUR_ID  
+[gscholar]: https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=0uLZ3mEAAAAJ&hl=en&authuser=2)  
 [gscholar-shield]: https://img.shields.io/badge/Google%20Scholar-4055F1?logo=googlescholar  
 [linkedin]: https://linkedin.com/in/ergincagataycankaya  
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Ergin%20%C3%87ankaya-0A66C2?logo=linkedin  
