@@ -1,9 +1,28 @@
-# _config.yml
+# Site metadata
 title: Ergin C. Cankaya
 description: "Ph.D. Candidate, Remote Sensing & LiDAR in Forest Growth Models"
 url: "https://ergincagataycankaya.github.io"
-baseurl: "/ergincagataycankaya"  # your repo name
-theme: minima  # or you can pick: minima, jekyll-theme-cayman, etc.
+baseurl: "/ergincagataycankaya" # (if your repo is <user>.github.io/<repo>)
+
+# Build settings
+theme: minima                  # you can swap in any gem-based theme
+markdown: kramdown
+permalink: pretty              # /about/ instead of /about.html
+
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Exclude these from the generated site
+exclude:
+  - README.md
+  - .gitignore
+  - .github/                     # your workflows folder
+  - node_modules/
+  - Gemfile*
