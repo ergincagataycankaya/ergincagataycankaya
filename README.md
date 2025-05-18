@@ -19,10 +19,10 @@ Forest growth modelling, remote sensing & LiDAR | PhD Candidate @ University of 
 
 ## 🎯 Research Interests
 
-- 🌲 **Forest Growth Models** (allometry)  
-- 🚁 **LiDAR & Photogrammetry** (handheld, UAV, terrestrial)  
-- 🛰️ **Remote Sensing & GIS** (time-series, classification)  
-- 🤖 **AI for Forestry** (deep learning, forest inventory)
+- 🌲 **Forest Growth Models** (Tree allometry & Modeling)  
+- 🚁 **LiDAR & Photogrammetry** (Nobile-Handheld, UAV, Terrestrial)  
+- 🛰️ **Remote Sensing & GIS** (Time-Series, Tree Species Classification)  
+- 🤖 **ML for Forestry** (Machine learning, forest inventory)
 
 ---
 
@@ -30,9 +30,9 @@ Forest growth modelling, remote sensing & LiDAR | PhD Candidate @ University of 
 
 | Year | Activity                                           |
 |:----:|:---------------------------------------------------|
-| 2025 | 🏅 Awarded NSERC Doctoral Fellowship                |
+| 2023 | 🏅 Awarded Best Poster Presentation at the 93rd Forest Industry Lecture Series (FILS) |
 | 2024 | 📄 Published “A LiDAR‐Based Growth Model for…” [\[1\]](#publications) |
-| 2023 | 🗣 Invited talk: **AGU Fall Meeting**, San Francisco |
+| 2025 | 🗣 Oral Presentatiton: **ISCL: A New Algorithm for Individual Tree Detection from Lidar Point Clouds**, Québec City, Québec |
 
 ---
 
@@ -44,26 +44,53 @@ Forest growth modelling, remote sensing & LiDAR | PhD Candidate @ University of 
 
 ---
 
-## 💼 Experience & Teaching
+## 💼 Experience
 
-- **PhD Candidate**, University of Alberta · 2021 – present  
-  – Advisor: Prof. Jane Doe  
-- **Teaching Assistant**, Department of Renewable Resources  
-  – R for Environmental Data (2023), GIS Applications (2022)  
+---
+
+### University of Alberta  
+**Graduate Research & Teaching Assistant**  
+*Department of Renewable Resources*  
+📍 Edmonton, AB • Jan 2023 – Present  
+- **Forest Growth & Yield Lab (GRAF):**  
+  – Forest growth and yield modeling & forecasting of tree and stand attributes   
+  – Simulation linking field inventory, LiDAR & remote‐sensing inputs  
+- **Teaching Assistant:**  
+  - **REN R 260 – History and Fundamentals of Environmental Protection and Conservation** (Jan 2025–May 2025)  
+  - **REN R 350 – Physical Hydrology** (Jan 2025–May 2025)  
+  - **REN R 201 – Geomatic Techniques** (Aug 2024–Dec 2024)
+  - **REN R 215 - Forest Measurements** (Jan 2024–May 2024)  
+  - **REN R 295 – Field Skills in Forest Science** (Aug 2023–Sep 2023)  
+- **Key Skills:** LiDAR • R / Python • GIS (ArcGIS, QGIS) • Geoprocessing • Statistical Modeling • Machine Learning • Field Mapping  
+
+---
+
+### General Directorate of Forestry (OGM)  
+**Remote Sensing Analyst**  
+📍 Ankara, Turkey • May 2018 – Apr 2025  
+- Developed LiDAR‐based workflows for forest inventory & canopy structure mapping  
+- Built decision‐support dashboards in R Shiny & Python for forest management and planning  
+- Integrated multispectral & ortho imagery into forest growth and yield models  
+- **Key Skills:** Remote Sensing • LiDAR • Big Data Analytics • R • Python • GIS & Field Survey • Project Management  
 
 ---
 
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"        alt="R" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qgis/qgis-original.svg" alt="QGIS" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"      alt="Git" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qgis/qgis-original.svg"    alt="QGIS" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"  alt="Docker" />
+  <!-- ArcGIS Pro logo (hosted by Esri) -->
+  <img height="30" src="https://raw.githubusercontent.com/Esri/arcgis-pro-sdk-resources/master/images/ArcGIS-Pro-Logo.svg" alt="ArcGIS Pro" />
+  <!-- MATLAB logo -->
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"  alt="MATLAB" />
 </p>
 
 ---
+
 
 ## 📊 GitHub Stats
 
