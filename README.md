@@ -8,12 +8,25 @@
 # 👋 Hi, I’m Ergin C. Cankaya
 
 [![University of Alberta][ualberta-badge]][ualberta]  
-Remote sensing & LiDAR | PhD Candidate @ University of Alberta
+Remote Sensing & LiDAR | PhD Candidate @ University of Alberta
 
 [![Profile Views][views-shield]][your-profile]  
 [![ORCID][orcid-shield]][orcid] [![Google Scholar][gscholar-shield]][gscholar] [![LinkedIn][linkedin-shield]][linkedin]
 
 </div>
+
+---
+
+## 🌐 Featured Project: National Forest Inventory in Turkey (2025)
+
+📢 **New!**  
+My largest and most comprehensive project to date is now publicly accessible:
+
+> 🚀 **[Explore the National Forest Inventory Dashboard (RShiny)](http://tuoe.me:3838/)**  
+> 🛰️ Built with R Shiny • Hosted on Microsoft Azure  
+> 🌲 Visualizes multi-year national inventory datasets with interactive tools and dynamic analytics  
+
+This platform supports integrative forest management by leveraging geospatial data, remote sensing inputs, and advanced forest metric reporting—delivered in a responsive and intuitive web interface. The application was built from scratch using R, Leaflet, Plotly, and Docker for deployment.
 
 ---
 
@@ -30,71 +43,54 @@ Remote sensing & LiDAR | PhD Candidate @ University of Alberta
 
 | Year | Activity                                           |
 |:----:|:---------------------------------------------------|
-| 2023 | 🏅 Awarded Best Poster Presentation at the 93rd Forest Industry Lecture Series (FILS) |
-| 2021 | 📄 **Using handheld mobile LiDAR technology in forest inventories: A case study from Artvin-Şavşat**, *Forestry Research Journal*, Dec 11 2021. [🔗 Read on DergiPark](https://dergipark.org.tr/tr/pub/ogmoad/article/1016879) |
+| 2025 | 🌐 Released: **RShiny National Forest Inventory Dashboard** — deployed on Microsoft Azure |
 | 2025 | 🗣 Oral Presentation: **ISCL: A New Algorithm for Individual Tree Detection from Lidar Point Clouds**, Québec City, Québec |
+| 2023 | 🏅 Awarded Best Poster Presentation at the 93rd Forest Industry Lecture Series (FILS) |
+| 2021 | 📄 *Using handheld mobile LiDAR in forest inventories: A case study from Artvin-Şavşat* ([Read](https://dergipark.org.tr/tr/pub/ogmoad/article/1016879)) |
 
 ---
 
 ## 📚 Publications <a name="publications"></a>
 
-1. **Cankaya, E. C.** (2021). *Using handheld mobile LiDAR technology in forest inventories: A case study from Artvin-Şavşat*. **Forestry Research Journal**, Dec 11 2021.  
-2. Copenheaver, C. A., Pulice, M. J., Lawrence, N. J. W., Raso, C. H., **Cankaya, E. C.**, Wan, H., & Poling, B. T. (2017). *Dendroarchaeology reveals influence of early‐European settlement on forest disturbance regimes in the Appalachian Mountains, USA*. Presented July 18 2017.  
-3. **Cankaya, E. C.** (2015). *Forest Road Network Effect on Forest Fire: A Case Study of Turkey*. In *Proceedings of the 38th Annual Council on Forest Engineering (COFE) Meeting*: Engineering Solutions for Non-Industrial Private Forest Operations, Lexington, KY (July 19 2015).  
-4. **Cankaya, E. C.** (2015). *Evaluating Forest Based Land Use Change Trends Using a Cellular Automata–Markov Model: A Case Study of Turkey*. In *Proceedings of the 38th Annual Council on Forest Engineering (COFE) Meeting*, Lexington, KY (July 19 2015).  
-5. **Cankaya, E. C.** (2015). *The Availability of Fire Risk Maps: A Case Study of Nurdagi Forest Planning Unit*. IV. Forest Construction-Transportation and Technology Workshop & Symposium on Precision Forestry in Forest Operations, Kastamonu, Turkey (June 4–6 2015).  
-6. **Cankaya, E. C.** (2015). *The Evaluation of the Forest Management Planning Process in Turkey in Terms of Precision Forestry*. IV. Forest Construction-Transportation and Technology Workshop & Symposium on Precision Forestry in Forest Operations, Kastamonu, Turkey (June 4–6 2015).  
-7. Sönmez, T., Gencal, B., & **Cankaya, E. C.** (2022). *Single-and double-entry volume equations for Turkey oak (Quercus cerris L.) stands in Bursa regional directorate of forestry*. Forestist, 10.  
+*Selected works:*
+
+1. **Cankaya, E. C.** (2021). *Using handheld mobile LiDAR technology in forest inventories: A case study from Artvin-Şavşat*. **Forestry Research Journal**.  
+2. Copenheaver, C. A., et al. (2017). *Dendroarchaeology reveals influence of early-European settlement…*, USA.  
+3. **Cankaya, E. C.** (2015). *Forest Road Network Effect on Forest Fire…*. COFE Meeting, Lexington, KY.  
+4. …and more in national and international symposiums.
 
 ---
 
 ## 💼 Experience
 
----
-
 ### University of Alberta  
-**Graduate Research & Teaching Assistant**  
-*Department of Renewable Resources*  
-📍 Edmonton, AB • Jan 2023 – Present  
-- **Forest Growth & Yield Lab (GRAF):**  
-  – Forest growth and yield modeling & forecasting of tree and stand attributes   
-  – Simulation linking field inventory, LiDAR & remote‐sensing inputs  
-- **Teaching Assistant:**  
-  - **REN R 260 – History and Fundamentals of Environmental Protection and Conservation** (Jan 2025–May 2025)  
-  - **REN R 350 – Physical Hydrology** (Jan 2025–May 2025)  
-  - **REN R 201 – Geomatic Techniques** (Aug 2024–Dec 2024)
-  - **REN R 215 - Forest Measurements** (Jan 2024–May 2024)  
-  - **REN R 295 – Field Skills in Forest Science** (Aug 2023–Sep 2023)  
-- **Key Skills:** LiDAR • R / Python • GIS (ArcGIS, QGIS) • Geoprocessing • Statistical Modeling • Machine Learning • Field Mapping  
-
----
+**PhD Researcher & Teaching Assistant**  
+📍 Edmonton, Canada • Jan 2023 – Present  
+- Forest growth and yield modeling using UAV & terrestrial LiDAR  
+- Teaching assistant across GIS, hydrology, and forest measurement courses  
+- Developer of interactive decision-support apps for forestry analytics  
 
 ### General Directorate of Forestry (OGM)  
-**Remote Sensing Analyst**  
+**Remote Sensing & Forest Informatics Specialist**  
 📍 Ankara, Turkey • May 2018 – Apr 2025  
-- Developed LiDAR‐based workflows for forest inventory & canopy structure mapping  
-- Built decision‐support dashboards in R Shiny & Python for forest management and planning  
-- Integrated multispectral & ortho imagery into forest growth and yield models  
-- **Key Skills:** Remote Sensing • LiDAR • Big Data Analytics • R • Python • GIS & Field Survey • Project Management  
+- Led national LiDAR-based forest inventory projects  
+- Integrated Sentinel-2, ALS, and multispectral data into forest planning models  
+- Developed forest dashboards with R Shiny and Python for strategic management
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Stack
 
 <p align="center">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"        alt="R" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"      alt="Git" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qgis/qgis-original.svg" alt="QGIS" />
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"  alt="Docker" />
-  <!-- ArcGIS Pro logo (hosted by Esri) -->
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arcgis-pro/arcgis-pro-original.svg" alt="ArcGIS Pro" />
-  <!-- MATLAB logo -->
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"  alt="MATLAB" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" />
 </p>
 
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -105,21 +101,21 @@ Remote sensing & LiDAR | PhD Candidate @ University of Alberta
 
 ---
 
-## ✉️ Get in Touch
+## ✉️ Contact
 
 - 📧 ergin@ualberta.ca  
 - 🔗 [LinkedIn][linkedin]  
-- 🌐 [Personal site / CV][cv]  
+- 🌐 [Personal Website / CV][cv]  
 
 ---
 
 <div align="center">
-_“Nearly all my work is open source—feel free to explore my repos above!_  
+_“Most of my work is open source — feel free to explore and contribute to the repositories above.”_  
 </div>
 
 ---
 
-<!-- Badges & links -->
+<!-- Badges & Links -->
 [ualberta]: https://www.ualberta.ca/  
 [ualberta-badge]: https://img.shields.io/badge/University%20of%20Alberta-00529B?style=flat&logo=University%20of%20Alberta  
 [views-shield]: https://komarev.com/ghpvc/?username=ergincagataycankaya&color=blue  
@@ -130,4 +126,4 @@ _“Nearly all my work is open source—feel free to explore my repos above!_
 [gscholar-shield]: https://img.shields.io/badge/Google%20Scholar-4055F1?logo=googlescholar  
 [linkedin]: https://linkedin.com/in/ergincagataycankaya  
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Ergin%20%C3%87ankaya-0A66C2?logo=linkedin  
-[cv]: https://your-personal-site.com/cv.pdf  
+[cv]: https://your-personal-site.com/cv.pdf
