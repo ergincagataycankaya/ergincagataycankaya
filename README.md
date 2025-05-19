@@ -126,4 +126,4 @@ _“Most of my work is open source — feel free to explore and contribute to th
 [gscholar-shield]: https://img.shields.io/badge/Google%20Scholar-4055F1?logo=googlescholar  
 [linkedin]: https://linkedin.com/in/ergincagataycankaya  
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Ergin%20%C3%87ankaya-0A66C2?logo=linkedin  
-[cv]: https://your-personal-site.com/cv.pdf
+[cv]: https://ergincagataycankaya.github.io/
