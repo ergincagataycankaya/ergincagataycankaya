@@ -45,7 +45,7 @@ This platform supports integrative forest management by leveraging geospatial da
 |:----:|:---------------------------------------------------|
 | 2025 | 🌐 Released: **RShiny National Forest Inventory Dashboard** — deployed on Microsoft Azure |
 | 2025 | 🗣 Oral Presentation: **ISCL: A New Algorithm for Individual Tree Detection from Lidar Point Clouds**, Québec City, Québec |
-| 2023 | 🏅 Awarded Best Poster Presentation at the 93rd Forest Industry Lecture Series (FILS) |
+| 2023 | 🏅 **Best Poster Presentation Award** at the [93rd Forest Industry Lecture Series (FILS)](https://www.ualberta.ca/en/renewable-resources/events-and-lectures/forest-industry-lecture-series/index.html), University of Alberta |
 | 2021 | 📄 *Using handheld mobile LiDAR in forest inventories: A case study from Artvin-Şavşat* ([Read](https://dergipark.org.tr/tr/pub/ogmoad/article/1016879)) |
 
 ---
