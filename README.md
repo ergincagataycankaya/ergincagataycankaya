@@ -88,6 +88,7 @@ This platform supports integrative forest management by leveraging geospatial da
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qgis/qgis-original.svg" alt="QGIS" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" />
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" />
 </p>
 
 ---
