@@ -22,7 +22,7 @@ Remote Sensing & LiDAR | PhD Candidate @ University of Alberta
 📢 **New!**  
 My largest and most comprehensive project to date is now publicly accessible:
 
-> 🚀 **[Explore the National Forest Inventory Dashboard (RShiny)](http://tuoe.me:3838/)**  
+> 🚀 **[Explore the National Forest Inventory Dashboard (RShiny)](http://tuoe.me/)**  
 > 🛰️ Built with R Shiny • Hosted on Microsoft Azure  
 > 🌲 Visualizes multi-year national inventory datasets with interactive tools and dynamic analytics  
 
