@@ -54,10 +54,11 @@ This platform supports integrative forest management by leveraging geospatial da
 
 *Selected works:*
 
-1. **Cankaya, E. C.** (2021). *Using handheld mobile LiDAR technology in forest inventories: A case study from Artvin-Şavşat*. **Forestry Research Journal**.  
-2. Copenheaver, C. A., et al. (2017). *Dendroarchaeology reveals influence of early-European settlement…*, USA.  
-3. **Cankaya, E. C.** (2015). *Forest Road Network Effect on Forest Fire…*. COFE Meeting, Lexington, KY.  
-4. …and more in national and international symposiums.
+1. **Cankaya, E. C.** (2025). *ADVANCING FOREST LAND MONITORING IN ISTANBUL REGIONAL DIRECTORATE OF FORESTRY: INTEGRATING U-NET DEEP LEARNING*. [[PDF](https://dergipark.org.tr/tr/download/article-file/4915000)]
+2. **Cankaya, E. C.** (2021). *Using handheld mobile LiDAR technology in forest inventories: A case study from Artvin-Şavşat*. **Forestry Research Journal**.
+3. Copenheaver, C. A., et al. (2017). *Dendroarchaeology reveals influence of early-European settlement…*, USA.
+4. **Cankaya, E. C.** (2015). *Forest Road Network Effect on Forest Fire…*. COFE Meeting, Lexington, KY.
+5. …and more in national and international symposiums.
 
 ---
 
