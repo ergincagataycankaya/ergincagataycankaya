@@ -4,9 +4,21 @@ title: "Ergin C. Cankaya"
 ---
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 body {
   opacity: 0;
   animation: fadeIn 0.8s ease-in-out forwards;
+  font-family: 'Merriweather', serif;
+  line-height: 1.6;
+  background: #f4f4f4;
+  color: #222;
+}
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
 }
 @keyframes fadeIn {
   to { opacity: 1; }
@@ -26,10 +38,14 @@ body {
 }
 </style>
 
+<main>
+
 # Welcome
 
 **Ergin C. Cankaya**  
 Remote Sensing & LiDAR | PhD Candidate at the University of Alberta
+
+Currently conducting a study at the University of Edinburgh (UOE) on advanced geospatial analytics. Recent publication: *ADVANCING FOREST LAND MONITORING IN ISTANBUL REGIONAL DIRECTORATE OF FORESTRY: INTEGRATING U-NET DEEP LEARNING* (2025).
 
 <div class="image-3d">
   <img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73909/world.200412.3x5400x2700.jpg" alt="Earth from space" />
@@ -93,4 +109,6 @@ R, Python, Git, QGIS, Docker, MATLAB, Microsoft Azure
 <div align="center">
   <em>Most of my work is open source — feel free to explore and contribute.</em>
 </div>
+
+</main>
 
