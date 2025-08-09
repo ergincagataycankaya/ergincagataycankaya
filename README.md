@@ -8,12 +8,15 @@
 # 👋 Hi, I’m Ergin C. Cankaya
 
 [![University of Alberta][ualberta-badge]][ualberta]  
-Remote Sensing & LiDAR | PhD Candidate @ University of Alberta
+Remote Sensing & LiDAR | PhD Candidate @ University of Alberta<br>
+Currently conducting a study at the University of Edinburgh (UOE)
 
 [![Profile Views][views-shield]][your-profile]  
 [![ORCID][orcid-shield]][orcid] [![Google Scholar][gscholar-shield]][gscholar] [![LinkedIn][linkedin-shield]][linkedin]
 
 </div>
+
+> **Recent publication:** Cankaya, E. C. (2025). *ADVANCING FOREST LAND MONITORING IN ISTANBUL REGIONAL DIRECTORATE OF FORESTRY: INTEGRATING U-NET DEEP LEARNING*.
 
 ---
 
