@@ -16,7 +16,7 @@ Currently conducting a study at the University of Edinburgh (UOE)
 
 </div>
 
-> **Recent publication:** Cankaya, E. C. (2025). *ADVANCING FOREST LAND MONITORING IN ISTANBUL REGIONAL DIRECTORATE OF FORESTRY: INTEGRATING U-NET DEEP LEARNING*.
+> **Recent publication:** Cankaya, E. C., & Radtke, P. J. (2025). Evaluating Local Calibration Methods for Improving Diameter Growth Predictions in the Southern Variant, Forest Vegetation Simulator (FVS-Sn). Forest Science, 1-30.*.
 
 ---
 
@@ -132,3 +132,4 @@ _“Most of my work is open source — feel free to explore and contribute to th
 [linkedin]: https://linkedin.com/in/ergincagataycankaya  
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Ergin%20%C3%87ankaya-0A66C2?logo=linkedin  
 [cv]: https://ergincagataycankaya.github.io/
+
