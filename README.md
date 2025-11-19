@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Geospatial Data Scientist** and **PhD Researcher** specializing in the development of automated algorithms for forest inventory. [cite_start]My work bridges the gap between **forest biometrics** and **computer vision**, utilizing terrestrial/UAV LiDAR and multispectral imagery to create scalable measurement solutions[cite: 30, 31, 32].
+I am a **Geospatial Data Scientist** and **PhD Researcher** specializing in the development of automated algorithms for forest inventory. [cite_start]My work bridges the gap between **forest biometrics** and **computer vision**, utilizing terrestrial/UAV LiDAR and multispectral imagery to create scalable measurement solutions.
 
 I designed **deep learning pipelines (U-Net)** for LULC, and currently, I am developing the **Tree Detection and Segmentation algorithm** in complex canopy structures in Alberta.
 
@@ -115,4 +115,5 @@ I designed **deep learning pipelines (U-Net)** for LULC, and currently, I am dev
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
 [website]: https://ergin-portfolio2.vercel.app/
 [website-shield]: https://img.shields.io/badge/Portfolio_Website-100000?style=flat-square&logo=vercel&logoColor=white
+
 
