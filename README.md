@@ -69,26 +69,23 @@ A complete decision-support system for analyzing Turkey’s national forest inve
 ### GitHub Stats
 
 <div align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ergincagataycankaya&show_icons=true&theme=dark"
+    src="https://ergin-github-stats.vercel.app/api?username=ergincagataycankaya&show_icons=true&theme=dark"
     height="160"
     alt="GitHub Stats"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergincagataycankaya&layout=compact&theme=dark"
+    src="https://ergin-github-stats.vercel.app/api/top-langs?username=ergincagataycankaya&layout=compact&theme=dark"
     height="160"
     alt="Top Languages"
   />
-
   <img
     src="assets/github-activity-radar.png"
     height="160"
     alt="GitHub Activity Overview"
   />
-
 </div>
+
 
 ---
 
@@ -136,3 +133,4 @@ For collaboration inquiries, please reach out by email.
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white  
 [website]: https://ergin.ca/  
 [website-shield]: https://img.shields.io/badge/Portfolio_Website-100000?style=flat-square&logo=vercel&logoColor=white  
+
