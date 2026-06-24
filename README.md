@@ -27,7 +27,7 @@ Current research includes designing deep learning architectures (U-Net variants)
 
 ### Featured Algorithms & Engineering
 
-#### [ISCL: Individual Tree Detection Algorithm]([[https://ergin-portfolio2.vercel.app](https://event.fourwaves.com/silvilaser2025/abstracts/fc64cafb-c8ed-43ee-ab46-f28f50bbf9d6)]
+#### [ISCL: Individual Tree Detection Algorithm]([https://event.fourwaves.com/silvilaser2025/abstracts/fc64cafb-c8ed-43ee-ab46-f28f50bbf9d6](https://event.fourwaves.com/silvilaser2025/abstracts/fc64cafb-c8ed-43ee-ab46-f28f50bbf9d6)]
 *Proprietary Algorithm (In Development, 2025)*  
 Traditional watershed and CHM-based methods fail under overlapping crowns and multi-story canopies.  
 ISCL introduces a new approach built on inter-slice clustering and geometric graph fitting, extracting trees using vertical density signatures rather than surface-based methods.
