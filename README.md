@@ -2,7 +2,7 @@
 
 # Ergin C. Cankaya
 
-**PhD Candidate, University of Alberta** | **MSc, Virginia Tech**  
+**PhD, University of Alberta** | **MSc, Virginia Tech**  
 *Geospatial Data & GIS Analyst | Remote Sensing & Spatial Analysis | Forest Biometrics*
 
 [![ORCID][orcid-shield]][orcid]
