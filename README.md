@@ -3,7 +3,7 @@
 # Ergin C. Cankaya
 
 **PhD Candidate, University of Alberta** | **MSc, Virginia Tech**  
-*Geospatial Data Scientist | Algorithm Developer | ML/DL for Forest Biometrics*
+*Geospatial Data & GIS Analyst | Remote Sensing & Spatial Analysis | Forest Biometrics*
 
 [![ORCID][orcid-shield]][orcid]
 [![Google Scholar][gscholar-shield]][gscholar]
@@ -14,57 +14,63 @@
 
 ---
 
-### Research & Development Profile
+### Profile
 
-I am a Geospatial Algorithm Developer and Academic Researcher working at the intersection of forest biometrics and computer vision. My work focuses on designing automated workflows for processing large-scale LiDAR datasets (~10TB) and multispectral imagery.
+I am a Geospatial Data and GIS Analyst focused on spatial data management, mapping, and analysis across forestry and natural-resource applications. I build ArcGIS and Python/R workflows to process large LiDAR and multispectral datasets, maintain enterprise geodatabases (PostgreSQL/PostGIS), and turn spatial data into maps, dashboards, and decision-support tools.
 
-Current research includes designing deep learning architectures (U-Net variants) for national-scale land use/land cover mapping and developing advanced segmentation algorithms for individual tree detection in multi-layered canopy structures.
+I also apply machine and deep learning (U-Net) to land use / land cover mapping and individual-tree detection when a project calls for it, so analysis scales from a single stand to national coverage.
 
-* **Core Domain:** Computational Forestry, Remote Sensing, Forest Growth Modeling (FVS)  
-* **Infrastructure:** Cloud-native geospatial analysis (Azure/Docker), High-Performance Computing (HPC)
+* **GIS & Mapping:** ArcGIS Pro, ArcGIS Enterprise/Online, QGIS; cartography, geoprocessing, spatial analysis
+* **Spatial Data:** enterprise geodatabase design, QA/QC, and ETL (PostgreSQL/PostGIS); data standards and exchange
+* **Remote Sensing:** LiDAR, multispectral, and satellite imagery; land-cover classification and change detection
+* **Automation & Infrastructure:** Python/R geospatial pipelines, reproducible workflows, Docker/Azure, HPC
 
 ---
 
-### Featured Algorithms & Engineering
-
-#### [ISCL: Individual Tree Detection Algorithm](https://event.fourwaves.com/silvilaser2025/abstracts/fc64cafb-c8ed-43ee-ab46-f28f50bbf9d6/)
-*Proprietary Algorithm (In Development, 2025)*  
-Traditional watershed and CHM-based methods fail under overlapping crowns and multi-story canopies.  
-ISCL introduces a new approach built on inter-slice clustering and geometric graph fitting, extracting trees using vertical density signatures rather than surface-based methods.
-
-*Stack:* Python (NumPy/SciPy), R, and performance-optimized C++ extensions.
+### Featured Work
 
 #### [National Forest Inventory Dashboard](https://tuoe.me/)
 *Lead Architect & Full-Stack Developer*  
-A complete decision-support system for analyzing Turkey’s national forest inventory.
+A GIS decision-support system for analyzing Turkey's national forest inventory, serving 100+ users.
 
-*Built using containerized R Shiny on Azure with:*
-- Distributed spatial queries for real-time national analytics  
-- Interactive Plotly and Leaflet visualizations  
+*Built with containerized R Shiny on Azure:*
+- Spatial database queries backing national-scale analytics
+- Interactive Plotly charts and Leaflet web maps
 - Automated ETL pipelines for continuous data ingestion
+
+#### [ISCL: Individual Tree Detection from LiDAR](https://event.fourwaves.com/silvilaser2025/abstracts/fc64cafb-c8ed-43ee-ab46-f28f50bbf9d6/)
+*Research method (in development, 2025)*  
+Watershed and CHM-based methods struggle under overlapping crowns and multi-story canopies. ISCL detects individual trees using vertical density signatures through inter-slice clustering and geometric graph fitting rather than surface-based methods.
+
+*Stack:* Python (NumPy/SciPy), R, and C++ extensions for point-cloud processing.
 
 ---
 
 ### Technical Stack
 
-**Languages & Scripting**  
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-
-**Geospatial & Deep Learning**  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+**GIS & Geospatial**  
+<img src="https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=flat-square&logo=arcgis&logoColor=white" />
+<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostGIS-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/GDAL-5F9EA0?style=flat-square&logo=gdal&logoColor=white" />
 <img src="https://img.shields.io/badge/PDAL-Point_Cloud-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square" />
+
+**Languages & Scripting**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white" />
+
+**Analysis & Deep Learning**  
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 
 **DevOps & Cloud**  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
----
 
 ---
 
@@ -75,8 +81,8 @@ A complete decision-support system for analyzing Turkey’s national forest inve
 **Forest Science**, 1–30.
 
 **Cankaya, E. C.**, Sonmez, T., & Gencal, B. (2025).  
-*Advancing Forest Land Monitoring in Istanbul: Integrating U-Net Deep Learning.*  
-**Remote Sensing / ArtGRID**, 7(1), 26–44.
+*Advancing Forest Land Monitoring in Istanbul: Integrating U-Net Deep Learning and Remote Sensing.*  
+**ArtGRID – Journal of Architecture, Engineering and Fine Arts**, 7(1), 26–44.
 
 **Cankaya, E. C.** (2021).  
 *Using handheld mobile LiDAR technology in forest inventories: A case study from Artvin-Şavşat.*  
@@ -112,5 +118,3 @@ For collaboration inquiries, please reach out by email.
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white  
 [website]: https://ergin.ca/  
 [website-shield]: https://img.shields.io/badge/Portfolio_Website-100000?style=flat-square&logo=vercel&logoColor=white  
-
-
