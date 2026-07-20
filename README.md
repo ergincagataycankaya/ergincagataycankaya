@@ -29,7 +29,7 @@ I also apply machine and deep learning (U-Net) to land use / land cover mapping 
 
 ### Featured Work
 
-#### [National Forest Inventory Dashboard](https://tuoe.me/)
+#### [National Forest Inventory Dashboard](https://ergin.shinyapps.io/TUOE/)
 *Geospatial Data Analyst — General Directorate of Forestry*  
 A GIS decision-support web application for Turkey's National Forest Inventory, serving 100+ users.
 
